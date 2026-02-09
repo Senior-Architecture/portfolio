@@ -82,7 +82,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{motivated full-stack web}} developer with [[strong expertise]] in Laravel, Vue.js, and WordPress. I help startups and businesses build applications that are fast, secure, and scalable.</p><p>With experience ranging from custom business websites to complete web applications,</p><p>I focus on writing clean, maintainable code and delivering results that create [[long-term value.!]]</p>"
+                            "text": "<p>I’m a {{motivated full-stack web}} developer and Finance Modeling Expert with [[strong expertise]] in MERN, Vue.js, WordPress and Power BI, Excel. I help startups and businesses build applications and Interactive Dashboard (KPI, DAX) that are fast, secure, and scalable.</p><p>With experience ranging from custom business websites to complete web applications,</p><p>I focus on writing clean, maintainable code and delivering results that create [[long-term value.!]]</p>"
                         },
                         "es": {
                             "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
