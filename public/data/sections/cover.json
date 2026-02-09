@@ -47,7 +47,7 @@
                 },
                 {
                     "id": 3,
-                    "label": "Saba P",
+                    "label": "My Github",
                     "link": {"href": "https://github.com/Senior-Architecture", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
                 }
@@ -66,7 +66,7 @@
             "id": 2,
             "component": "ArticleText",
             "locales": {
-                "en": {"title": "{{A little bit}} about me..."},
+                "en": {"title": "{{Read about me and Check my}} Github..."},
                 "es": {"title": "{{Un poco}} sobre mí..."},
                 "fr": {"title": "{{Un peu}} à propos de moi..."}
             },
